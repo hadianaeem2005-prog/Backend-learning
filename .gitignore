@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Build output
+dist/
+
+# VS Code settings
+.vscode/
+
+# Temporary uploads (if your project has this folder)
+public/temp/
